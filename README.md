@@ -1,4 +1,6 @@
-##PPG-analysis
+# PPG-analysis
+## Thesis work of Pierangelo Maria Rapa
+### University of Bologna, DEI
 
 This repository contains code to run PPG-analysis on GAP8.
 
